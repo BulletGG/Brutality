@@ -7,13 +7,11 @@ SpiritHook is a free csgo HvH cheat based on betterosiris
 # 1.3 Changelogs
 
 Version: 1.3
----Rage---
 
----Antiaim---
-+flick rate slider for defensive pitch
+# Antiaim
++flick rate slider for defensive pitch                                                                                                                                                                        
 +Defensive can now flick faster [old: 20ticks, slider: goes from 2 ticks to 32 ticks]
 
----visuals---
+# visuals
 +Fixed viewmodel reseting on scope
 
----Misc---
