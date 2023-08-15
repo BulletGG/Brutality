@@ -9,6 +9,7 @@ SpiritHook is a free csgo HvH cheat based on betterosiris
 Version: 1.3
 
 # Rage
+---
 
 # Antiaim
 +flick rate slider for defensive pitch                                                                                                                                                                        
@@ -18,3 +19,4 @@ Version: 1.3
 +Fixed viewmodel reseting on scope
 
 # Misc
+---
