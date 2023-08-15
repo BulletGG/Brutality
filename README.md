@@ -14,4 +14,3 @@ Version: 1.3
 
 # visuals
 +Fixed viewmodel reseting on scope
-
