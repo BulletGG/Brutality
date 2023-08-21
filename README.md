@@ -1,21 +1,20 @@
-# SpiritHook
-SpiritHook is a free csgo HvH cheat based on betterosiris
+# Brutality
+Brutality is a free CS:GO HvH cheat.
 # Discord
-↓↓↓↓ join the discord to see updates and progress ↓↓↓↓                                                                                
-        https://discord.gg/m8YHeRAZzb
+https://discord.gg/Z4yUEmDN6x
 
 # Changelogs
 
-Version: 1.4
+Version: 1.0
 
 # Rage
-+ Fully NEW Resolver [Way better than old]
+
 
 # Antiaim
-+ Changes to defensive / fakeflick
+
   
 # Visuals
----
+
 
 # Misc
-+ Changed Clantag
+
